@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define command-line arguments
+# Define command-line arguments like pods, deployments, daemonsets, replicaset, job or all
 
 RESOURCE_TYPE=$0
 #RESOURCE_TYPE=pods
